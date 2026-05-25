@@ -3,6 +3,8 @@ This repository contains my MJML email designs, including source code, generated
 
 I'm using this repo as a place to practice, experiment, and improve my email development skills over time.
 
+Keep in mind that some of these might not have in-built dark mode media queries in the final HTML, or any other fixes such as Outlook border-radius fixes. In those cases, you should add them yourself.
+
 ## What is MJML?
 MJML is a framework that simplifies responsive email development and helps make emails more compatible across different clients.
 
