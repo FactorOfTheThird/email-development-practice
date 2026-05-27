@@ -1,0 +1,175 @@
+<mjml lang="en">
+    <mj-head>
+        <mj-title>Thank you for signing up!</mj-title>
+        <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" />
+        <mj-attributes>
+            <mj-all font-family="Inter, Arial, sans-serif" color="#3a3a3a"/>
+            <mj-button background-color="#273261" color="#f1f1f1" href="https://example.com"/>
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#ececec">
+        <mj-wrapper background-color="#fff" padding="0">
+            <mj-section background-color="#090d33">
+                <mj-column vertical-align="middle">
+                    <mj-image src="https://i.ibb.co/2BCM24t/northbyte.png" alt="Northbyte Logo" width="164px"/>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="64px 0px" background-url="https://i.ibb.co/fcGRTJ5/2ee3a932-c2ac-4de9-8117-3dc51d73ada1.png" background-position="center" background-size="cover">
+                <mj-column>
+                    <mj-text font-size="24px" font-weight="800" color="white" align="center">
+                        3 Small Upgrades For Your Workspace This Week
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-text font-size="18px" font-weight="600">
+                        Hey Alex,
+                    </mj-text>
+
+                    <mj-text font-size="14px">
+                        A better workspace doesn't need a complete overhaul.
+                    </mj-text>
+
+                    <mj-text font-size="14px">
+                        This week, we picked three simple upgrades that can make your desk feel cleaner, faster, and more comfortable without spending hours reorganizing everything.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#ccd4da" padding-top="0" padding-bottom="0"/>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column vertical-align="middle">
+                    <mj-image src="https://i.ibb.co/7NW6ywBp/icons.png" alt="Desktop Icons and a Folder" align="center" width="300px"/>
+                </mj-column>
+
+                <mj-column vertical-align="middle">
+                    <mj-text font-weight="600" font-size="16px" align="center">
+                        1. Reduce visual clutter
+                    </mj-text>
+                    <mj-text align="center">
+                        Try moving rarely-used apps into a single folder and keeping only your daily essentials visible.
+                    </mj-text>
+
+                    <mj-text align="center">
+                        A cleaner desktop makes it easier to focus and surprisingly reduce decision fatigue.
+                    </mj-text>
+
+                    <mj-button align="center" background-color="#475ac2">
+                        Read more
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#ccd4da" padding-top="0" padding-bottom="0"/>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column vertical-align="middle">
+                    <mj-image src="https://i.ibb.co/HTg32CMc/keyboard.png" alt="Keyboard with an arm rest" align="center" width="300px"/>
+                </mj-column>
+
+                <mj-column vertical-align="middle">
+                    <mj-text font-weight="600" font-size="16px" align="center">
+                        2. Improve typing comfort
+                    </mj-text>
+                    <mj-text align="center">
+                        Even a small wrist rest or adjusting your keyboard angle can make long sessions more comfortable.
+                    </mj-text>
+
+                    <mj-text align="center">
+                        If you spend hours coding, gaming, or studying, ergonomics matter more than you think.
+                    </mj-text>
+
+                    <mj-button align="center" background-color="#475ac2">
+                        See tips
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#ccd4da" padding-top="0" padding-bottom="0"/>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column vertical-align="middle">
+                    <mj-image src="https://i.ibb.co/s9qDWPhd/monitor.png" alt="Monitor with yellow backlight" align="center" width="300px"/>
+                </mj-column>
+
+                <mj-column vertical-align="middle">
+                    <mj-text font-weight="600" font-size="16px" align="center">
+                        3. Upgrade your lighting
+                    </mj-text>
+                    <mj-text align="center">
+                        Soft, indirect lighting helps reduce eye strain during late-night sessions.
+                    </mj-text>
+
+                    <mj-text align="center">
+                        Warm LEDs behind your monitor can completely change the feel of your setup.
+                    </mj-text>
+
+                    <mj-button align="center" background-color="#475ac2">
+                        View inspiration
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#ccd4da" padding-top="0" padding-bottom="0"/>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-table width="100%" align="center">
+                        <tr>
+                            <td style="padding:0 24px;" align="center">
+                                <img src="https://i.ibb.co/zT4H4mGX/twitter.png" alt="Twitter icon" width="24px" align="center" style="padding-right: 8px;"/>
+                                <a href="https://example.com" style="text-decoration: underline;color:#3a3a3a">Twitter</a>
+                            </td>
+                            <td style="padding:0 24px; border-left: 1px solid #ccd4da;border-right: 1px solid #ccd4da;" align="center">
+                                <img src="https://i.ibb.co/XZ4DYzHx/instagram.png" alt="Twitter icon" width="24px" align="center" style="padding-right: 8px;"/>
+                                <a href="https://example.com" style="text-decoration: underline;color:#3a3a3a">Instagram</a>
+                            </td>
+                            <td style="padding:0 24px;" align="center">
+                                <img src="https://i.ibb.co/11yW8qK/website.png" alt="Twitter icon" width="24px" align="center" style="padding-right: 8px;"/>
+                                <a href="https://example.com" style="text-decoration: underline;color:#3a3a3a">Website</a>
+                            </td>
+                        </tr>
+                    </mj-table>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#ccd4da" padding-top="0" padding-bottom="0"/>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="0 0 16px 0">
+                <mj-column>
+                    <mj-text align="center" font-size="12px" color="#9c9c9c">
+                        You're receiving this email because you subscribed to NORTHBYTE updates.
+                    </mj-text>
+
+                    <mj-text align="center" font-size="12px" >
+                        <a href="https://example.com" style="color: #9c9c9c; text-decoration: underline;">Unsubscribe</a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>
