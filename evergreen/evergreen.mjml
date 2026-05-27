@@ -1,0 +1,294 @@
+<mjml lang="en">
+    <mj-head>
+        <mj-title>Thank you for signing up!</mj-title>
+        <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" />
+        <mj-font name="PT Serif" href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" />
+        <mj-attributes>
+            <mj-all font-family="PT Serif, Inter, Arial, sans-serif" color="#192519"/>
+            <mj-button background-color="#548341" color="#f1f1f1" font-weight="500" href="https://example.com"/>
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#e9f0df">
+        <mj-wrapper background-color="#fff" padding="0 20px">
+            <mj-section padding="32px 0">
+                <mj-column vertical-align="middle">
+                    <mj-image src="https://i.ibb.co/VcpM6Y3P/evergreen-logo.png" alt="Evergreen Logo" width="164px" padding="0"/>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="16px 0">
+                <mj-column>
+                    <mj-divider border-width="1px" padding="0" border-color="#cae4a1" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="64px 60px 64px 0" background-url="https://i.ibb.co/9mpYK8rc/1e1573c2-d6a1-4a58-a811-f86c09bd9b1e.png" background-position="center" background-size="cover">
+                <mj-column>
+                    <mj-text font-size="24px" color="white" font-weight="600" align="left">
+                        Fresh ideas, grown for you.
+                    </mj-text>
+                    <mj-text color="white" align="left" font-family="Inter">
+                        The latest tips, trends, and inspiration to help you live and work sustainably.
+                    </mj-text>
+                    <mj-button font-family="Inter" align="left">
+                        Read the latest
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+ 
+            <mj-section padding="24px 32px">
+                <mj-column>
+                    <mj-image src="https://i.ibb.co/0jkrwTKt/plant.png" alt="Plant" width="48px" />
+                    <mj-text font-family="Inter" font-weight="600" font-size="18px" align="center" padding-bottom="0">
+                        Hello there!
+                    </mj-text>
+                    <mj-text font-family="Inter" align="center" line-height="1.7">
+                        Welcome to the May edition of our newsletter. We're excited to share fresh insights and practical tips to help you make a positive impact every day.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="16px 0 32px 0">
+                <mj-column>
+                    <mj-divider border-width="1px" padding="0" border-color="#cae4a1" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="0">
+                <mj-group>
+                    <mj-column width="35%">
+                        <mj-image
+                        src="https://i.ibb.co/1GcJ9gDZ/plants.png"
+                        alt="Many plants"
+                        padding="0"
+                        />
+                    </mj-column>
+
+                    <mj-column width="65%" vertical-align="top" padding-left="12px">
+                        <mj-text
+                        padding="0 0 4px 0"
+                        font-family="Inter"
+                        font-size="12px"
+                        font-weight="600"
+                        color="#6b7a53"
+                        >
+                        SUSTAINABLE LIVING
+                        </mj-text>
+
+                        <mj-text
+                        padding="0"
+                        font-family="Inter"
+                        font-size="16px"
+                        font-weight="800"
+                        color="#000000"
+                        >
+                        5 Simple Swaps for a Greener Home
+                        </mj-text>
+
+                        <mj-text
+                        padding="8px 0"
+                        font-family="Inter"
+                        font-size="12px"
+                        font-weight="600"
+                        color="#868686"
+                        >
+                        Easy changes that make a big difference.
+                        </mj-text>
+
+                        <mj-text
+                        padding="8px 0 0 0"
+                        font-family="Inter"
+                        font-size="14px"
+                        font-weight="600"
+                        >
+                        <a
+                            href="https://example.com"
+                            style="color:#6b7a53;text-decoration:underline;"
+                        >
+                            Read more
+                        </a>
+                        </mj-text>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+
+            <mj-section padding="16px 0 0 0">
+                <mj-group>
+                    <mj-column width="35%" >
+                        <mj-image
+                        src="https://i.ibb.co/HfQSMVFq/plant2.png"
+                        alt="Plant"
+                        padding="0"
+                        />
+                    </mj-column>
+
+                    <mj-column width="65%" vertical-align="top" padding-left="12px">
+                        <mj-text
+                        padding="0 0 4px 0"
+                        font-family="Inter"
+                        font-size="12px"
+                        font-weight="600"
+                        color="#6b7a53"
+                        >
+                        WELLBEING
+                        </mj-text>
+
+                        <mj-text
+                        padding="0"
+                        font-family="Inter"
+                        font-size="16px"
+                        font-weight="800"
+                        color="#000000"
+                        >
+                        Mindful Moments for Busy Days
+                        </mj-text>
+
+                        <mj-text
+                        padding="8px 0"
+                        font-family="Inter"
+                        font-size="12px"
+                        font-weight="600"
+                        color="#868686"
+                        >
+                        Simple practices to help you pause and recharge.
+                        </mj-text>
+
+                        <mj-text
+                        padding="8px 0 0 0"
+                        font-family="Inter"
+                        font-size="14px"
+                        font-weight="600"
+                        >
+                        <a
+                            href="https://example.com"
+                            style="color:#6b7a53;text-decoration:underline;"
+                        >
+                            Read more
+                        </a>
+                        </mj-text>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+
+            <mj-section padding="16px 0 0 0">
+                <mj-group>
+                    <mj-column width="35%">
+                        <mj-image
+                        src="https://i.ibb.co/Z6hYYvZK/turbine.png"
+                        alt="Turbine"
+                        padding="0"
+                        />
+                    </mj-column>
+
+                    <mj-column width="65%" vertical-align="top" padding-left="12px">
+                        <mj-text
+                        padding="0 0 4px 0"
+                        font-family="Inter"
+                        font-size="12px"
+                        font-weight="600"
+                        color="#6b7a53"
+                        >
+                        NEWS
+                        </mj-text>
+
+                        <mj-text
+                        padding="0"
+                        font-family="Inter"
+                        font-size="16px"
+                        font-weight="800"
+                        color="#000000"
+                        >
+                        What's New in Sustainable Energy
+                        </mj-text>
+
+                        <mj-text
+                        padding="8px 0"
+                        font-family="Inter"
+                        font-size="12px"
+                        font-weight="600"
+                        color="#868686"
+                        >
+                        Exciting updates from around the world.
+                        </mj-text>
+
+                        <mj-text
+                        padding="8px 0 0 0"
+                        font-family="Inter"
+                        font-size="14px"
+                        font-weight="600"
+                        >
+                        <a
+                            href="https://example.com"
+                            style="color:#6b7a53;text-decoration:underline;"
+                        >
+                            Read more
+                        </a>
+                        </mj-text>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+
+            <mj-section padding="32px 0 16px 0">
+                <mj-column>
+                    <mj-divider border-width="1px" padding="0" border-color="#cae4a1" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="18px 0" background-color="#f7ffeb">
+                <mj-group>
+                    <mj-column vertical-align="middle" width="20%">
+                        <mj-image src="https://i.ibb.co/VpScLdpR/heart.png" alt="Plant" width="48px" />
+                    </mj-column>
+                    <mj-column vertical-align="middle" width="80%">
+                        <mj-text font-family="Inter" color="#809b55" font-weight="600" padding="0 0 8px 0">
+                            Thank you for supporting us!
+                        </mj-text>
+                        <mj-text font-family="Inter" color="#809b55" padding="0">
+                            See you next time :)
+                        </mj-text>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            
+            <mj-section padding="16px 0 16px 0">
+                <mj-column>
+                    <mj-divider border-width="1px" padding="0" border-color="#cae4a1" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-table width="auto" align="center">
+                        <tr>
+                            <td>
+                                <a href="https://example.com" style="padding:0;">
+                                    <img src="https://i.ibb.co/vChbcLy2/instagram2.png" alt="Instagram" width="28px" style="padding: 0" />
+                                </a>
+                            </td>
+
+                            <td>
+                                <a href="https://example.com" style="padding:0;">
+                                    <img src="https://i.ibb.co/ZptjyzfK/facebook2.png" alt="Instagram" width="28px" style="padding: 0 12px" />
+                                </a>
+                            </td>
+
+                            <td>
+                                <a href="https://example.com" style="padding:0;">
+                                    <img src="https://i.ibb.co/Y76v1dx8/pinterest.png" alt="Instagram" width="28px" style="padding: 0" />
+                                </a>
+                            </td>
+                        </tr>
+                    </mj-table>
+
+                    <mj-text align="center" font-family="Inter" font-size="12px" color="#727272">
+                        © 2026 Evergreen, All rights reserved
+                    </mj-text>
+
+                    <mj-text align="center" font-family="Inter" font-size="12px" color="#727272">
+                        <a href="https://example.com" style="text-decoration: underline;color: #727272;">Unsubscribe</a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>
